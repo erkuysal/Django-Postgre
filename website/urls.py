@@ -21,4 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
 
     path('', include("base.urls")),  # include function calls module with the wanted file.
+    path('index', include("polls.urls")),
 ]

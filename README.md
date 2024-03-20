@@ -1,1 +1,1 @@
-# Django-Postgre
+# Django-Postgres
